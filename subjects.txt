@@ -1,0 +1,4 @@
+Quantitative 
+SCM
+SDLC
+Discrete Structure
