@@ -2,3 +2,4 @@ Quantitative
 SCM
 SDLC
 Discrete Structure
+discrete structure is my 2nd semester subject.
